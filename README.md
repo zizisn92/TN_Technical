@@ -1,5 +1,5 @@
 # TN_Technical
-Terraform basic: <br />
+## Terraform basic: <br />
     - What is terraform? <br />
     - Terraform life cycle <br /> 
     - Terraform Backend <br />
